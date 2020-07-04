@@ -2,7 +2,7 @@ package ds.singlylinkedlist;
 
 public class AppCircularLL {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         CircularLinkedList cl = new CircularLinkedList();
         cl.insertFirst(10);

@@ -4,7 +4,7 @@ import ds.singlylinkedlist.CircularLinkedList;
 
 public class App {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         DoublyLinkedList dl  = new DoublyLinkedList();
         dl.insertFirst(10);

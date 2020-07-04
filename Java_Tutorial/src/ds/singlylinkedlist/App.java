@@ -2,7 +2,7 @@ package ds.singlylinkedlist;
 
 public class App {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         SingleLinkedlist myList = new SingleLinkedlist();
         myList.insertFirst(10);

@@ -62,7 +62,7 @@ public class QuickSort {
         int ival = a[i+1];
         a[end] = ival;
         a[i+1] = pivot; // pivot value is placed in the correct slot of the array. Now return the pivot index value
-    ]
+
         return i+1;
     }
 }
